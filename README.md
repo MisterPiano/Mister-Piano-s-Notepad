@@ -7,3 +7,5 @@ Instructions for run a
 .Open Debug File 
 6.Find In Debug File "Mister Piano's Notepad.exe" 
 7.Open And Enjoy!
+Join In The Programm Discord Server For Contact
+https://discord.gg/QyP2h84F
