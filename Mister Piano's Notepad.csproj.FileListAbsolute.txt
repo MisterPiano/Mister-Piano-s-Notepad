@@ -1,0 +1,11 @@
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\bin\Debug\Mister Piano's Notepad.exe.config
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\bin\Debug\Mister Piano's Notepad.exe
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\bin\Debug\Mister Piano's Notepad.pdb
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister Piano's Notepad.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister Piano's Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister_Piano_s_Notepad.Form1.resources
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister_Piano_s_Notepad.Properties.Resources.resources
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister Piano's Notepad.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister Piano's Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister Piano's Notepad.exe
+C:\Users\Roman\source\repos\Mister Piano's Notepad\Mister Piano's Notepad\obj\Debug\Mister Piano's Notepad.pdb
